@@ -1,1 +1,1 @@
-[about](/about)
+![janvaneyck](janvaneyck.jpg)
