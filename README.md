@@ -1,3 +1,5 @@
 # autodidatta
 
-![janvaneyck](janvaneyck.jpg)
+```
+blah
+```
